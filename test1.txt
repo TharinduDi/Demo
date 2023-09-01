@@ -1,0 +1,16 @@
+ Volume in drive D is DATA
+ Volume Serial Number is 1850-6745
+
+ Directory of D:\Tharindu\Programming\Git\Moon
+
+09/01/2023  10:27 PM    <DIR>          .
+09/01/2023  10:27 PM    <DIR>          ..
+08/31/2023  11:23 PM                26 .gitignore
+08/31/2023  11:23 PM    <DIR>          bin
+08/31/2023  11:31 PM                10 file1.js
+08/31/2023  11:29 PM                 4 file2.js
+08/31/2023  11:20 PM    <DIR>          logs
+08/31/2023  11:13 PM                17 main.js
+09/01/2023  10:27 PM                 0 test1.txt
+               5 File(s)             57 bytes
+               4 Dir(s)  322,262,806,528 bytes free
